@@ -36,4 +36,8 @@ all questions i have solved on leetcode and other platfrom
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
