@@ -45,6 +45,7 @@ all questions i have solved on leetcode and other platfrom
 | [0876-middle-of-the-linked-list](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,10 +54,12 @@ all questions i have solved on leetcode and other platfrom
 | [0876-middle-of-the-linked-list](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
