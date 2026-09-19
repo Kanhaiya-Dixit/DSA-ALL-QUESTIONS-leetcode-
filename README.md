@@ -6,6 +6,7 @@ all questions i have solved on leetcode and other platfrom
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -77,4 +78,8 @@ all questions i have solved on leetcode and other platfrom
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
