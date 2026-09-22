@@ -9,6 +9,7 @@ all questions i have solved on leetcode and other platfrom
 | [1401-circle-and-rectangle-overlapping](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Hard/3525-find-x-value-of-array-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@ all questions i have solved on leetcode and other platfrom
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Hard/3525-find-x-value-of-array-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +92,8 @@ all questions i have solved on leetcode and other platfrom
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Hard/3525-find-x-value-of-array-ii/) | Hard |
 <!---LeetCode Topics End-->
