@@ -29,6 +29,7 @@ all questions i have solved on leetcode and other platfrom
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0414-third-maximum-number](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Medium/3524-find-x-value-of-array-i/) | Medium |
@@ -90,6 +91,7 @@ all questions i have solved on leetcode and other platfrom
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0414-third-maximum-number](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kanhaiya-Dixit/DSA-ALL-QUESTIONS-leetcode-/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
